@@ -56,6 +56,20 @@
     margin-top: 20px;
   }
   
+  #video-ao-vivo {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .video-container iframe {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
   #atividades {
     background-color: #e9f1f7;
     border-radius: 8px;
@@ -65,6 +79,26 @@
   #atividades-lista {
     margin-top: 20px;
     font-size: 1.1rem;
+  }
+  
+  #galeria {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .galeria-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+  }
+  
+  .foto img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
   
   footer {
@@ -77,5 +111,4 @@
   
   footer p {
     margin: 5px 0;
-  }
-  
+  }  
