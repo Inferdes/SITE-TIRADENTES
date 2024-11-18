@@ -1,4 +1,4 @@
-# 🎙️ **Rádio Escolar - Colégio Tiradentes Integral** 🎧
+# 🎙️ **Site do Colégio Tiradentes Integral** 🎧
 
 Bem-vindo ao repositório da **Rádio Escolar do Colégio Tiradentes Integral**! 📻✨ Este projeto tem como objetivo integrar a comunidade escolar e a cidade de **Santo Antônio da Platina - PR** através de música, informação e cultura! 🎶🎤
 
