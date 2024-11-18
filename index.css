@@ -1,0 +1,45 @@
+/* Estilos básicos */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #0078d7;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+}
+header nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+header nav a:hover {
+    text-decoration: underline;
+}
+.container {
+    padding: 20px;
+}
+h2 {
+    background-color: #0078d7;
+    color: white;
+    padding: 10px;
+}
+.link-page {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+.link-page a {
+    background-color: #0078d7;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.link-page a:hover {
+    background-color: #005bb5;
+}
